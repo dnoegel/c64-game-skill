@@ -1,0 +1,10 @@
+{
+  "name": "c64-game-dev",
+  "description": "Build Commodore 64 games for real hardware: starter engine, asset converters, and a C64 game development knowledge base.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Daniel Nögel"
+  },
+  "repository": "https://github.com/dnoegel/c64-game-skill",
+  "keywords": ["c64", "commodore-64", "6502", "retro", "game-development", "assembly"]
+}

@@ -1,0 +1,7 @@
+build/
+*.prg
+*.d64
+*.crt
+*.lbl
+*.lst
+.DS_Store

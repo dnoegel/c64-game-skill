@@ -1,0 +1,7 @@
+interface:
+  display_name: "C64 Game Dev"
+  short_description: "Build Commodore 64 games for real hardware"
+  default_prompt: "Use $c64-game-dev to plan, build, debug, or optimize a Commodore 64 game."
+
+policy:
+  allow_implicit_invocation: true

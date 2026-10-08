@@ -1,0 +1,13 @@
+{
+  "name": "c64-game-skill",
+  "owner": {
+    "name": "Daniel Nögel"
+  },
+  "plugins": [
+    {
+      "name": "c64-game-dev",
+      "source": "./",
+      "description": "Build Commodore 64 games for real hardware: starter engine, asset converters, and a C64 game development knowledge base."
+    }
+  ]
+}
